@@ -2,7 +2,7 @@
 
 ## Demo Link
 
-📁 [Click here](https://drive.google.com/file/d/1nEsDX6toADMx15i_Tz6jU_WnbKROwYJ0/view?usp=drivesdk) to view the demo video
+📁 [Click here]((https://drive.google.com/drive/folders/1nLBOUIxHF_QWTfV33TkXRTSGJEY7tQvP)) to view the demo video
 
 This is a full-stack web application for a Freelancer Marketplace, allowing three types of users: **Admin**, **Client**, and **Freelancer**.
 
