@@ -1,0 +1,49 @@
+# Freelancer Platform
+
+## Demo Link
+
+📁 [Click here](https://drive.google.com/your-drive-folder-link) to view the demo video
+
+This is a full-stack web application for a Freelancer Marketplace, allowing three types of users: **Admin**, **Client**, and **Freelancer**.
+
+## 📦 Project Overview
+
+- **Frontend:** React.js with Context API, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Real-time:** Socket.io  
+- **Storage:** localStorage
+
+## 🔑 User Roles
+
+### 👤 Freelancer
+- Register/Login  
+- Update skills and profile  
+- View and bid on projects  
+- Submit completed work  
+- Receive funds upon approval
+
+### 🧑‍💼 Client
+- Register/Login  
+- Post new projects  
+- Review bids and approve freelancers  
+- Review project submissions
+
+### 🛡️ Admin
+- Login only (pre-created account)  
+- View all users and projects  
+- Monitor platform activity
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js and npm  
+- MongoDB running locally on port `27017`
+
+## 🛠️ Installation & Run
+
+### Backend
+```bash
+cd backend
+npm install
+node index.js
